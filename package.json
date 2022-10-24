@@ -8,6 +8,8 @@
     "@nomicfoundation/hardhat-chai-matchers": "^1.0.3",
     "@nomiclabs/hardhat-ethers": "^2.1.1",
     "chai": "^4.3.6",
-    "hardhat": "^2.11.2"
+    "hardhat": "^2.11.2",
+    "@oasisprotocol/sapphire-hardhat": "^1.0.2",
+    "@oasisprotocol/sapphire-paratime": "^1.0.10"
   }
 }
