@@ -16,4 +16,10 @@ module.exports = {
       },
     },
   },
+  networks: {
+    sapphire: {
+      url: `https://testnet.sapphire.oasis.dev`,
+      accounts: [key]
+    }
+  }
 };
