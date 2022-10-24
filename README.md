@@ -44,3 +44,7 @@ npx hardhat run scripts/encodeSushiCallData.js
 ```shell
 npx hardhat run scripts/deploy-anycall-v7.js
 ```
+
+```shell
+npx hardhat run scripts/deploy-anycall-v7-sapphire.js
+```
