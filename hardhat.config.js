@@ -1,3 +1,4 @@
+const hrc = require('@oasisprotocol/sapphire-hardhat');
 require("@nomicfoundation/hardhat-chai-matchers");
 require("@nomiclabs/hardhat-ethers");
 
